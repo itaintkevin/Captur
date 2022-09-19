@@ -5,3 +5,6 @@
 - Next.js
 - Typescript
 - Tailwind CSS
+
+### Deployment Link
+- https://captur-blogs.vercel.app/
